@@ -57,11 +57,11 @@ The Collatz sequence for 35 is: 35 106 53 160 80 40 20 10 5 16 8 4 2 1
 
 ## 5. Test results
 ### a. Basic feature(Normal Case)
-![alt text](<01_basic feature.png>)
+![alt text](<./snapshot/01_basic feature.png>)
 ### b. Error handling: Missing Argument
-![alt text](<02_error handling_no integer.png>)
+![alt text](<./snapshot/02_error handling_no integer.png>)
 ### c. Error handling: Non-postive integer
-![alt text](<03_error handling_not positive integer.png>)
+![alt text](<./snapshot/03_error handling_not positive integer.png>)
 ---
 
 ## 6.File Structure
